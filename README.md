@@ -11,6 +11,7 @@
 <img width="853" alt="Q1" src="https://github.com/user-attachments/assets/ec51bd93-8234-440f-8c16-8e7ee5e0b797" />
 
 **MySQL Database**
+
 <img width="545" alt="post-q1-sql" src="https://github.com/user-attachments/assets/64b59bb4-5b0a-48bc-8332-0cdd69b05898" />
 
 
