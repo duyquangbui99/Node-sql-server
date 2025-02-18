@@ -42,5 +42,18 @@
 
 <img width="734" alt="q6-post-sql" src="https://github.com/user-attachments/assets/47092e0c-c345-4c9a-a8d3-c7b927b8f242" />
 
+**Q7 - Get All Students Enrolled in a Course - Request (GET/courses/2/students) - Postman**
+<img width="844" alt="Q7" src="https://github.com/user-attachments/assets/f81350c7-a3f3-4d54-8a80-832d53c58bb9" />
+
+**Q8 - Get All Courses for a student - Request (GET/students/2/courses) - Postman**
+<img width="859" alt="Q8" src="https://github.com/user-attachments/assets/e64d6538-1cb0-4944-b59e-4404fa39b71d" />
+
+**Q9 - Remove a Student from a Course - Request (DELETE/enrollments/1) - Postman**
+<img width="854" alt="q9" src="https://github.com/user-attachments/assets/790f4d7c-a79f-468a-8ebe-c39baf609e67" />
+
+**MySQL Database for this enrollment after Remove**
+<img width="727" alt="q9-del-sql" src="https://github.com/user-attachments/assets/4bb316a1-a994-4717-9eaf-c3a9a72398f9" />
+
+
 
 
